@@ -8,4 +8,6 @@ git clone https://github.com/X1A0CA1/get_yout_network.git && mv get_yout_network
 ```
 
 # later
+```bash
 ./internet.sh
+```bash
