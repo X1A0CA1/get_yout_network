@@ -3,18 +3,7 @@ echo "请按任意键继续"
 read anykey
 #请按任意键继续
 clear
-#清屏
-echo -e "\033[1;31m嘤嘤嘤. \033[0m"
-sleep 0.1
-echo -e "\033[1;31m嘤嘤嘤.. \033[0m"
-sleep 0.5
-echo -e "\033[1;31m嘤嘤嘤... \033[0m"
-sleep 0.5
-echo -e "\033[1;31m嘤嘤嘤.... \033[0m"
-sleep 0.1
-echo -e "\033[1;31m嘤嘤嘤..... \033[0m"
-sleep 0.5
-#凑数用的
+
 mycount=0
 #定义一个变量 名字叫mycount
 while (( $mycount < 864000 ))
